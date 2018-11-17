@@ -12,8 +12,8 @@
     },
     "KeyName": {
       "Type": "String",
-      "Description": "Keyname for the keypair that Qwiklab will use",
-      "Default": "lab-key-pair"
+      "Description": "Keyname for the keypair will use to connect",
+      "Default": "uwes-tecracer-eu-central-1"
     }
   },
   "Mappings": {
