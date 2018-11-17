@@ -17,7 +17,6 @@ global:
 tests:
   scenario-1:
     parameter_input: input.json
-#    parameter_input: test-project1-input-networklayer.json
     regions:
       - eu-central-1
     template_file: TE-Lab2-CF.json
